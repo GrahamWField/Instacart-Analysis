@@ -4,7 +4,10 @@ Python Student Project
 In this project i used Python to wrangle, analyze and generate visualisations from several datasets from Instacart.
 
 
-## Key Questions
+## Objective and Key Questions
+Insta cart is an online gorcery retailer, they have strong saels but want to improve thier marketing to further improve this.
+
+
 •	The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 
 •	They also want to know whether there are particular times of the day when people spend the most money, as this might inform the type of products they advertise at these times.
