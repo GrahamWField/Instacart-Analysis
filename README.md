@@ -1,6 +1,9 @@
 # Instacart-Analysis
 Python Student Project
 
+In this project i used Python to wrangle, analyze and generate visualisations from several datasets from Instacart.
+
+
 ## Key Questions
 •	The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
 
