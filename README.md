@@ -1,11 +1,11 @@
 # Instacart-Analysis
 Python Student Project
 
-In this project i used Python to wrangle, analyze and generate visualisations from several datasets from Instacart.
+In this project I used Python to wrangle, analyze and generate visualisations from several datasets from Instacart.
 
 
 ## Objective and Key Questions
-Insta cart is an online gorcery retailer, they have strong saels but want to improve thier marketing to further improve this.
+Insta-Cart is an online grocery retailer, they have strong sales but want to improve their marketing to further improve this.
 
 
 •	The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
@@ -16,7 +16,7 @@ Insta cart is an online gorcery retailer, they have strong saels but want to imp
 
 •	Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
 
-•	The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
+•	The marketing and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviours differ. For example:
 ```
 i)	What’s the distribution among users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
 ii)	Are there differences in ordering habits based on a customer’s loyalty status?
@@ -27,8 +27,8 @@ vi)	What differences can you find in ordering habits of different customer profi
 ```
 ## Tools
 
-For this task is used anconda, more specifically Jupyter.
-belwo are a list of tools i used to help mme with the analysis
+For this task i used anaconda, more specifically Jupyter.
+below are a list of tools I used to help me with the analysis
 ```
 •	Pandas: for data analysis
 •	Numpy: for mathematical equations
@@ -39,4 +39,4 @@ belwo are a list of tools i used to help mme with the analysis
 
 ## Resources
 
-The data set provided was fabricated by Career Foundry. Insta cart is a real comapany but this ata set was created for educational purposes.
+The data set provided was fabricated by Career Foundry. Insta Cart is a real company but this data set was created for educational purposes.
